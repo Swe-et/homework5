@@ -22,7 +22,9 @@
 
 ![6](image/6.png)
 
-# 10.RNN
+# 10.RNN 
+
+（代码在10_Surname_Generation_with_RNNs）
 
 ### 无条件姓氏生成
 
